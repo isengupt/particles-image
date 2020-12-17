@@ -1,9 +1,9 @@
 import * as THREE from "three";
-import fragment from "./shaders/fragment.glsl";
-import vertex from "./shaders/vertex.glsl";
-import mask from "./img/mask.jpg";
-import t1 from "./img/img1.jpg";
-import t2 from "./img/img2.jpg";
+import fragment from "/shaders/fragment.glsl";
+import vertex from "/shaders/vertex.glsl";
+import mask from "/img/mask.jpg";
+import t1 from "/img/img1.jpg";
+import t2 from "/img/img2.jpg";
 import gsap from "gsap";
 
 import * as dat from "dat.gui";
