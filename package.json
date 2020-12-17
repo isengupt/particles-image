@@ -1,7 +1,7 @@
 {
   "name": "particles-image",
   "description": "Deploy a parcel app to GitHub pages",
-  "homepage": "https://isengupt.github.io/particles-image",
+  "homepage": "https://isengupt.github.io/particles-image/",
   "scripts": {
     "start": "parcel index.html",
     "predeploy": "rm -rf dist && parcel build index.html --public-url /particles-image",
